@@ -56,5 +56,4 @@ ArtistQuestionScreen.propTypes = {
   renderPlayer: PropTypes.func.isRequired,
 };
 
-
 export default ArtistQuestionScreen;
